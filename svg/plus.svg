@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
+ <path transform="scale(.26458)" d="m22.5 3v42h3v-42h-3z" style="paint-order:stroke fill markers"/>
+ <path transform="scale(.26458)" d="m3 22.5v3h42v-3h-42z" style="paint-order:stroke fill markers"/>
+</svg>

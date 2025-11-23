@@ -1,8 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.48177 0 0 .48177 -19.746 -42.274)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.4614">
-  <rect x="47.326" y="116.99" width="22.47" height="5.1723" style="paint-order:fill markers stroke"/>
-  <path d="m58.561 88.917c-22.47 28.076 0 28.076 0 28.076 1.9e-5 -2.0146 0.14675-3.7236 0.35513-5.3006 0.74665-6.5872 2.7932-11.351 5.4122-14.668-1.4599-2.4019-3.3548-5.0927-5.7673-8.1071zm0.35513 22.775c-0.18934 1.6705-0.35511 3.3751-0.35513 5.3006 0 0 15.568 3.4e-4 7.8301-16.19-3.5006 0.6424-6.5073 3.5661-7.475 10.889z" stroke-linecap="round" style="paint-order:fill markers stroke"/>
- </g>
+
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg1"
+   sodipodi:docname="white-bishop.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.75"
+     inkscape:cx="38.173913"
+     inkscape:cy="47.826087"
+     inkscape:window-width="1340"
+     inkscape:window-height="722"
+     inkscape:window-x="56"
+     inkscape:window-y="305"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <g
+     transform="matrix(0.47258064,0,0,0.47258064,-19.208396,-41.143821)"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1.4614"
+     id="g1"
+     style="stroke-width:1.46127;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none">
+    <rect
+       x="47.326"
+       y="116.99"
+       width="22.469999"
+       height="5.1722999"
+       style="stroke-width:1.46127;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1" />
+    <path
+       d="m 58.561,88.917 c -22.47,28.076 0,28.076 0,28.076 1.9e-5,-2.0146 0.14675,-3.7236 0.35513,-5.3006 0.74665,-6.5872 2.7932,-11.351 5.4122,-14.668 -1.4599,-2.4019 -3.3548,-5.0927 -5.7673,-8.1071 z m 0.35513,22.775 c -0.18934,1.6705 -0.35511,3.3751 -0.35513,5.3006 0,0 15.568,3.4e-4 7.8301,-16.19 -3.5006,0.6424 -6.5073,3.5661 -7.475,10.889 z"
+       stroke-linecap="round"
+       style="stroke-width:1.46127;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path1" />
+  </g>
 </svg>

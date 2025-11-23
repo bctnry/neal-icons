@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.48177 0 0 .48177 -19.746 -42.274)" fill="#fff" stroke="#000" stroke-linecap="round">
+  <rect x="46.683" y="116.64" width="23.754" height="5.4678" stroke-width="1.4654" style="paint-order:fill markers stroke"/>
+  <rect x="52.622" y="95.014" width="11.877" height="5.4678" fill="none" stroke="#000" stroke-width="1.4654" style="paint-order:fill markers stroke"/>
+  <ellipse cx="58.56" cy="91.651" rx="3.3425" ry="3.3639" fill="#000" stroke-linecap="round" stroke-width="1.4654" style="paint-order:fill markers stroke"/>
+  <path d="m58.56 116.64s-11.877 0 4.5e-4 -16.158c11.877 16.158-4.5e-4 16.158-4.5e-4 16.158z" fill="#000" stroke="#000" stroke-linecap="round" stroke-width="1.4654" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

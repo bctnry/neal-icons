@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6.5 8.5v31h35v-31h-32zm3 3h29v3h-29zm0 6h29v19h-29v-15z" style="paint-order:stroke fill markers"/>
+ <rect x="21.778" y="30.5" width="13" height="3" stroke-width=".70711" style="paint-order:markers stroke fill"/>
+ <path d="m14.621 22.186 5.6567 5.6569-5.6567 5.6569-2.1213-2.1213 3.5355-3.5355-3.5355-3.5355z" stroke-width=".99999" style="paint-order:markers stroke fill"/>
+</svg>

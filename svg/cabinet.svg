@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m12 7.5v18h24v-18zm3 3h18v4.5h-18zm0 7.5h18v4.5h-18z" style="paint-order:stroke fill markers"/>
+ <path d="m12 22.5v18h24v-18zm3 3h18v12h-18v-9.75z" style="paint-order:stroke fill markers"/>
+ <g>
+  <circle cx="30.5" cy="12.75" r="1.5" style="paint-order:markers stroke fill"/>
+  <circle cx="30.5" cy="20.25" r="1.5" style="paint-order:markers stroke fill"/>
+  <circle cx="30.483" cy="28" r="1.5" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

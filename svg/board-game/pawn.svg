@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933334 16.933333"
+   id="svg1"
+   sodipodi:docname="pawn.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.7742952"
+     inkscape:cx="-1.8022595"
+     inkscape:cy="1.0813557"
+     inkscape:window-width="1299"
+     inkscape:window-height="760"
+     inkscape:window-x="810"
+     inkscape:window-y="354"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     transform="matrix(0.48177334,0,0,0.48177334,-19.746195,-42.27449)"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1.4664"
+     id="g1">
+    <rect
+       x="46.682999"
+       y="116.64"
+       width="23.754"
+       height="5.4678001"
+       style="paint-order:fill markers stroke;stroke-width:1.4654194;stroke-dasharray:none"
+       id="rect1" />
+    <rect
+       x="52.621948"
+       y="95.014465"
+       width="11.876997"
+       height="5.4678001"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.46542;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-3" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke-width:1.4654194;stroke-linecap:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path1"
+       cx="58.560448"
+       cy="91.650574"
+       rx="3.3425021"
+       ry="3.3638921" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.46542;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 58.559997,116.64 c 0,0 -11.876999,0 4.5e-4,-16.15773 11.876549,16.15773 -4.5e-4,16.15773 -4.5e-4,16.15773 z"
+       id="path2" />
+  </g>
+</svg>
